@@ -45,7 +45,7 @@ export default function Weather() {
 
     return (
         <div>
-            <div className='weather'>
+            <div className='weather' >
 
                 <div className='search-bar'>
                     <input ref={inputData} type="text" placeholder='Search' />

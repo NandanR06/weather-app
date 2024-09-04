@@ -9,10 +9,16 @@
 }
 
 .app {
+  position: fixed;
   background-image: linear-gradient(55deg, rgba(174, 193, 207, 0.521), rgba(17, 138, 208, 0.466), #ffff);
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 49.7rem;
   margin-top: -100px;
+  width: 100%;
+  padding-top: 15vh;
+  height: -webkit-fill-available;
+
+
 }
+
