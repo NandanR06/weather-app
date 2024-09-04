@@ -39,7 +39,6 @@
 .weather-icon {
     height: 30vh;
     width: 30vh;
-
     margin-left: 20px;
     display: flex;
     align-items: center;
@@ -178,6 +177,36 @@
         margin-top: -7vh;
         margin-bottom: -4px;
         margin-left: 11px;
+    
+    }
+    .Location{
+        margin-top: -2px;
+        margin-left: 12px;
+    }
+    .temperature{
+        margin-top: -74px;
+        margin-left: 33px;
+    }
+    
+    .weather{
+        height: 53vh;
+        width: 34vh;
+    }
+    .date{
+        margin-left: 38px;
+
+    }
+}
+@media(min-height:1080px){
+    .search-bar input{
+    background-color: red;
+    width:26vh;
+    }
+
+    .weather-icon{
+        margin-top: -7vh;
+        margin-bottom: -4px;
+        margin-left: 14px;
     
     }
     .Location{
