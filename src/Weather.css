@@ -113,7 +113,6 @@
 
 @media(min-height:844px){
     .search-bar input{
-    background-color: red;
     width:27vh;
     }
 
@@ -129,7 +128,6 @@
 
 @media(min-height:932px){
     .search-bar input{
-    background-color: red;
     width:24vh;
     }
 
@@ -149,7 +147,6 @@
 }
 @media(min-height:740px)or(min-height:1138px){
     .search-bar input{
-    background-color: red;
     width:30vh;
     }
 
@@ -169,8 +166,8 @@
 }
 @media(min-height:1138px){
     .search-bar input{
-    background-color: red;
-    width:26vh;
+
+      width:26vh;
     }
 
     .weather-icon{
@@ -199,10 +196,8 @@
 }
 @media(min-height:1080px){
     .search-bar input{
-    background-color: red;
     width:26vh;
     }
-
     .weather-icon{
         margin-top: -7vh;
         margin-bottom: -4px;
